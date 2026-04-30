@@ -99,7 +99,25 @@ Event cards introduce global chaos:
 - WAR → increases instability  
 - FLOOD → economic damage  
 - SABOTAGE → disruption effects  
-- BOOM → recovery or growth  
+- BOOM → recovery or growth
+  
+## 🎴 EVENT CARDS
+
+<p align="center">
+  
+### MARKET BOOM
+<img src="MARKET  BOOM (CRASH).png" width="250">
+
+### WAR
+<img src="WAR (CRASH) (1) (1).png" width="250">
+
+### FLOOD
+<img src="FLOOD (CRASH).png" width="250">
+
+### SABOTAGE
+<img src="SABOTOGE (CRASH).png" width="250">
+
+</p>
 
 Events modify:
 - dice outcomes  
