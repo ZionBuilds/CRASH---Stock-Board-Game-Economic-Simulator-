@@ -70,6 +70,11 @@ Each company has:
 - ownership competition  
 
 ---
+## COMPANY CONCEPT SKETCHES (EARLY DEVELOPMENT)
+
+This image contains the full early sketchbook development of all CRASH™ company designs.
+
+![CRASH Concept Sketches](IMG_20260430_192159593.jpg)
 
 ## CORE GAME LOOP
 
