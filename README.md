@@ -3,6 +3,9 @@
 ## Economic Strategy Board Game (Simulation + Chaos Economy Experience)
 
 ---
+<p align="center">
+  <img src="IMG_20260429_021212974~2.jpg" width="400">
+</p>
 
 ## OVERVIEW
 
