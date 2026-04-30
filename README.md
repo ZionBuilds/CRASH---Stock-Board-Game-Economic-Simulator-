@@ -101,7 +101,7 @@ Event cards introduce global chaos:
 - SABOTAGE → disruption effects  
 - BOOM → recovery or growth
   
-## 🎴 EVENT CARDS
+## 📈 EVENT CARDS
 
 <p align="center">
   
