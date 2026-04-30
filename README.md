@@ -20,6 +20,12 @@ It is both:
 - a chaos-driven decision engine  
 
 ---
+## CRASH Rules & Procedures Comparison
+
+<p align="center">
+  <img src="Untitled-1.png" width="45%" />
+  <img src="Untitled-2.png" width="45%" />
+</p>
 
 ## CORE OBJECTIVE
 
