@@ -362,8 +362,22 @@ into
 lived experience  
 
 ---
+---
+
+## FINAL VISUAL — CRASH POSTER
+
+This poster represents the physical visual identity of CRASH™. It was created as a key design piece to showcase the branding, tone, and atmosphere of the game in a real-world format.
+
+<p align="center">
+  <img src="IMG_20260429_021152576~2.jpg" width="650">
+</p>
+
+---
 
 ## END
+
+CRASH™ is a live economic strategy experience built around chaos, decision-making, and emotional gameplay.
+
 
 CRASH proved at its convention that:
 - people rush to join it  
