@@ -22,9 +22,11 @@ It is both:
 ---
 ## CRASH Rules & Procedures Comparison
 
+## CRASH Rules & Procedures
+
 <p align="center">
-  <img src="Untitled-1.png" width="45%" />
-  <img src="Untitled-2.png" width="45%" />
+  <img src="Untitled-1.png" width="500">
+  <img src="Untitled-2.png" width="500">
 </p>
 
 ## CORE OBJECTIVE
