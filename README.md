@@ -20,9 +20,8 @@ It is both:
 - a chaos-driven decision engine  
 
 ---
-## CRASH Rules & Procedures Comparison
 
-## CRASH Rules & Procedures
+## CRASH ™ Procedures
 
 <p align="center">
   <img src="Untitled-1.png" width="500">
